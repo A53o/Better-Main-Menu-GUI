@@ -3,7 +3,7 @@
 ## Better Main Menu GUI
 Better Main Menu GUI is a resource pack that extends the gui style of the mod [Better Main Menu.](https://modrinth.com/mod/bettermainmenu)
 
-**Full Credit Goes To <img align="top" src="https://avatars.githubusercontent.com/u/90938266?v=4" alt="Mitzingdash's pfp" width="25"> [Mitzingdash](https://github.com/Mitzingdash) For Button Textures!**
+**Full Credit Goes To <img align="top" src="https://avatars.githubusercontent.com/u/90938266?v=4" alt="Mitzingdash's pfp" width="25"> [Mitzingdash](https://github.com/Mitzingdash) For Textures!**
 
 
 > ### Note
